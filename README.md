@@ -1,7 +1,10 @@
 # Predicting In-Hospital Mortality with Machine Learning: Insights from the MIMIC III Database
 
+University of Pennsylvania, Bioengineering
 
-_Abstract_  This report investigates the prediction of in-hospital mortality among heart failure (HF) patients utilizing machine learning techniques applied to the MIMIC-III database. 
+This is the final project for BE521 Brain Computer Interface.
+
+_Abstract_ — This report investigates the prediction of in-hospital mortality among heart failure (HF) patients utilizing machine learning techniques applied to the MIMIC-III database. 
 Heart failure represents a significant public health challenge due to its high morbidity and mortality rates. Despite technological advancements, the complex relationships between demographic characteristics, vital signs, and mortality in HF patients remain insufficiently understood. 
 Leveraging the rich dataset available in the MIMIC-III database, this study aims to identify predictors of in-hospital mortality to aid healthcare professionals in early risk assessment and intervention strategies.
 The study explores demographic details, vital signs, comorbidities, and laboratory variables to develop predictive models. 
